@@ -1,2 +1,2 @@
 # project
-This project is about an Nexus Aquarium.
+This project is about a Nexus Aquarium.
